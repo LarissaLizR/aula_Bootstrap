@@ -1,0 +1,61 @@
+body{
+    font: 20px Georgia, 'Times New Roman', Times, serif;;
+}
+
+.navbar {
+    background-color:lightcyan;
+}
+
+img{
+    border-radius: 50%;
+    margin-left: 10px;
+    
+}
+
+.container-fluid{
+    background-color:mistyrose;
+}
+
+.container-desenvolverdor{
+    background-color: lightblue;
+}
+
+.quemSomos{
+   
+    text-align: center;
+    border-radius: 4%;
+}
+
+.Parceiros{
+    
+    text-align: center;
+    border-radius: 10% ;
+    padding-bottom: 2%;
+    margin-bottom: 10px;
+}
+
+h3{
+    font-size: 16px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+p{
+    font-size: 16px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.contatos{
+    
+    text-align: center;
+    border-radius: 1% ;
+    padding-bottom: 2%;
+    
+    
+}
+.bg-footer{
+    color: aliceblue;
+    padding: 1px;
+}
